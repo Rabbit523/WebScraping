@@ -1,0 +1,550 @@
+1516773299216	geckodriver	INFO	geckodriver 0.19.1
+1516773299216	geckodriver	INFO	Listening on 127.0.0.1:51434
+1516773302338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.Bji74ScXpOek"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516773303887	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 887752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 887752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516773307232	Marionette	INFO	Listening on port 51468
+1516773307784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516773307827	Marionette	DEBUG	Register listener.js for window 4294967297
+1516773307843	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516773309830	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516773309831	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 12319: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 12837: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 13454: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 13622: unreachable code after return statement
+1516773313010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773314161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516773319705	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773320958	Marionette	DEBUG	Received DOM event "beforeunload" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773321567	Marionette	DEBUG	Received DOM event "pagehide" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773321568	Marionette	DEBUG	Received DOM event "unload" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 12319: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 12837: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 13454: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 13622: unreachable code after return statement
+1516773321755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516773321755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516773321755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516773321756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516773321756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516773321756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516773321756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516773321757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516773321757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1516773321757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1516773321758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1516773321758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1516773321758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516773321758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516773321759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516773321760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516773321760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1516773321760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1516773321761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1516773322096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773322217	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1516773323745	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773324966	Marionette	DEBUG	Received DOM event "beforeunload" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773325408	Marionette	DEBUG	Received DOM event "pagehide" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516773325409	Marionette	DEBUG	Received DOM event "unload" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+JavaScript warning: https://shop.adidas.ae/media/js/22b7da2affb97fbb71bda4ed5efab193.js?v=1505302806, line 12319: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516773327572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.adidas.ae/en/customer/account/login/"
+1516773327581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1516773327582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1516773327582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1516773327582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1516773327583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1516773327583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1516773327583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1516773327584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1516773327584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1516773327584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967401"
+1516773327584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967399"
+1516773327585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+1516773327585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1516773327585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1516773327586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1516773327587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
+1516773327587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967389"
+1516773327587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967384"
+1516773327587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967391"
+1516773327714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1516773331934	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.adidas.ae/en/customer/account/login/"
+JavaScript warning: https://shop.adidas.ae/media/js/0b6e2ce907ab040656fa71393a9e6905.js?v=1505302806, line 12319: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516773335198	Marionette	DEBUG	Received DOM event "beforeunload" for "https://shop.adidas.ae/en/customer/account/"
+JavaScript error: https://embed.tawk.to/58d5f85df7bbaa72709c24ff/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/58d5f85df7bbaa72709c24ff/default, line 705: TypeError: a is null
+1516773335780	Marionette	DEBUG	Received DOM event "pagehide" for "https://shop.adidas.ae/en/customer/account/"
+1516773335780	Marionette	DEBUG	Received DOM event "unload" for "https://shop.adidas.ae/en/customer/account/"
+JavaScript warning: https://shop.adidas.ae/media/js/0403e4b9e43cbb23360dfc041f945cbe.js?v=1505302806, line 12319: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://shop.adidas.ae/media/js/0403e4b9e43cbb23360dfc041f945cbe.js?v=1505302806, line 12837: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/0403e4b9e43cbb23360dfc041f945cbe.js?v=1505302806, line 13410: unreachable code after return statement
+1516773338020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.adidas.ae/en/checkout/onepage/"
+1516773338032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967420"
+1516773338033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1516773338033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1516773338161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967432"
+1516773340911	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.adidas.ae/en/checkout/onepage/"
+1516773342195	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1516773345226	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 886560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 887864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 888216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 888216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 885212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 886560, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1516775728670	geckodriver	INFO	geckodriver 0.19.1
+1516775728677	geckodriver	INFO	Listening on 127.0.0.1:65298
+1516775731760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.YqNeWGXT6UFn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516775733163	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516775735712	Marionette	INFO	Listening on port 65329
+1516775736091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516775736132	Marionette	DEBUG	Register listener.js for window 4294967297
+1516775736144	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516775737409	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516775737409	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 12319: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 12837: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 13454: unreachable code after return statement
+JavaScript warning: https://shop.adidas.ae/media/js/fb6eaec7d641f443aa75a331be9aef97.js?v=1505302806, line 13622: unreachable code after return statement
+1516775740615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+1516775741617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516775747795	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.adidas.ae/en/eqt-support-ultra-primeknit-king-push-shoes/DB0181.html"
+[Child 867616, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 867616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 908600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 908600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 901412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+1516776339935	geckodriver	INFO	geckodriver 0.19.1
+1516776339941	geckodriver	INFO	Listening on 127.0.0.1:53000
+1516776342607	geckodriver	INFO	geckodriver 0.19.1
+1516776342614	geckodriver	INFO	Listening on 127.0.0.1:53016
+1516776345670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.X60f5OIKvq4j"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516776346996	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 913900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516776350004	Marionette	INFO	Listening on port 53036
+1516776351070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516776351106	Marionette	DEBUG	Register listener.js for window 4294967297
+1516776351126	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516776352588	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516776352588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516776355714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516776360619	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 913900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 914308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 914220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 914220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 914152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516776688098	geckodriver	INFO	geckodriver 0.19.1
+1516776688098	geckodriver	INFO	Listening on 127.0.0.1:54832
+1516776691193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.rE2NLCfvWak6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516776692548	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 913740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516776695823	Marionette	INFO	Listening on port 54854
+1516776696653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516776696691	Marionette	DEBUG	Register listener.js for window 4294967297
+1516776696708	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516776698993	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516776698994	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516776701939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516776707010	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+[Parent 913740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 916916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 909368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 909368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 910668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516776962019	geckodriver	INFO	geckodriver 0.19.1
+1516776962026	geckodriver	INFO	Listening on 127.0.0.1:56731
+1516776965114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.TcXwBEfUm3Kw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516776965983	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 919828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 919828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516776969036	Marionette	INFO	Listening on port 56759
+1516776969443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516776969492	Marionette	DEBUG	Register listener.js for window 4294967297
+1516776969512	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516776971163	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516776971164	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516776974196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516776978848	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+1516776994874	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1516776997834	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 920376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 919740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+ WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 919724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 919724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516777034755	Marionette	INFO	Listening on port 57260
+1516777034954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516777035003	Marionette	DEBUG	Register listener.js for window 4294967297
+1516777035030	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777037325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777037325	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777040397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516777044265	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+[Parent 916856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 917024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 921696, Chrome_ChildThread] WAR[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777075650	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 922572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 920388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777078790	Marionette	INFO	Listening on port 57627
+1516777079406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516777079448	Marionette	DEBUG	Register listener.js for window 4294967297
+1516777079463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516777080921	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777080921	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777083931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516777093931	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+[Parent 922572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 922572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 920360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 920496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 921768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed for this session
+1516777134269	Marionette	DEBUG	Register listener.js for window 4294967297
+1516777134283	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516777135661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777135661	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777138593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516777141959	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.interjet.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 921576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 922484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 922484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 923024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 923024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 918140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516777185579	geckodriver	INFO	geckodriver 0.19.1
+1516777185579	geckodriver	INFO	Listening on 127.0.0.1:58530
+1516777188668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.JDwHU1F8WrWZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777189989	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 924452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 924452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777193228	Marionette	INFO	Listening on port 58559
+1516777194103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516777194141	Marionette	DEBUG	Register listener.js for window 4294967297
+1516777194159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516777195590	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777195590	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777198576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516777203475	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 924168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 924524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 924524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 923188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 923188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 924376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516777245917	geckodriver	INFO	geckodriver 0.19.1
+1516777245924	geckodriver	INFO	Listening on 127.0.0.1:59084
+1516777248990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.xNDmGYvAhRmE"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777249868	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516777253059	Marionette	INFO	Listening on port 59110
+1516777253325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516777253362	Marionette	DEBUG	Register listener.js for window 4294967297
+1516777253397	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516777254861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516777254862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516777257792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516777261740	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 922284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 922396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 922396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516778095673	geckodriver	INFO	geckodriver 0.19.1
+1516778095679	geckodriver	INFO	Listening on 127.0.0.1:63537
+1516778098768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.f9xG48xhWtBn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778099766	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 922432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 922432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778102895	Marionette	INFO	Listening on port 63568
+1516778103151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778103195	Marionette	DEBUG	Register listener.js for window 4294967297
+1516778103212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778105704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778105705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778108684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516778113869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+1516778437542	geckodriver	INFO	geckodriver 0.19.1
+1516778437542	geckodriver	INFO	Listening on 127.0.0.1:65482
+1516778440630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.XcukyJqhlxpW"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778441520	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 932420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 932420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778444583	Marionette	INFO	Listening on port 65504
+1516778444977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778445023	Marionette	DEBUG	Register listener.js for window 4294967297
+1516778445040	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778447403	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778447403	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778450462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516778455351	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 932836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516778611330	geckodriver	INFO	geckodriver 0.19.1
+1516778611337	geckodriver	INFO	Listening on 127.0.0.1:50101
+1516778614450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.GwCTnDQEJI75"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778615280	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 931012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 931012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778618291	Marionette	INFO	Listening on port 50125
+1516778618308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778618356	Marionette	DEBUG	Register listener.js for window 4294967297
+1516778618442	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778619862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778619862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778623282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516778626134	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 934424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516778817235	geckodriver	INFO	geckodriver 0.19.1
+1516778817242	geckodriver	INFO	Listening on 127.0.0.1:51362
+1516778820336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.TgJD5bC9FLLY"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778821319	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 935124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 935748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 935748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516778824504	Marionette	INFO	Listening on port 51384
+1516778824737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516778824780	Marionette	DEBUG	Register listener.js for window 4294967297
+1516778824797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516778827053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516778827053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516778830877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516778834983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+1516778842500	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1516778846767	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 935124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 935124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 935844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 935844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 936256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 936256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 935536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516779312179	geckodriver	INFO	geckodriver 0.19.1
+1516779312185	geckodriver	INFO	Listening on 127.0.0.1:53970
+1516779315281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.haecJ8f34Nev"
+1516779321103	geckodriver	INFO	geckodriver 0.19.1
+1516779321110	geckodriver	INFO	Listening on 127.0.0.1:54021
+1516779324205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Kara\\AppData\\Local\\Temp\\rust_mozprofile.0Fh9aMiRC951"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516779325070	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 939120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 939120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1516779328107	Marionette	INFO	Listening on port 54044
+1516779328559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516779328596	Marionette	DEBUG	Register listener.js for window 4294967297
+1516779328611	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516779331125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516779331125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516779334080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: gv should be a number
+1516779339184	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.interjet.com/en-us"
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 939704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 939704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 939192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 939192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Kara\AppData\Local\openvr\openvrpaths.vrpath
+[Child 939464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 939464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
